@@ -1,8 +1,8 @@
 .slider{
     background-color: #140E0C;
-    width: 800px;
+    width: 958px;
     position: relative;
-    height: 450px;
+    height: 500px;
     overflow: hidden;
     margin: 0 auto;
 }
@@ -10,8 +10,8 @@
 /* Картинка масштабируется по отношению к родительскому элементу */
 .slider .item img {
     object-fit: cover;
-    width: 800px;
-    height: 450px;
+    width: 958px;
+    height: 500px;
 }
 /* Кнопки вперед и назад */
 .slider .previous, .slider .next {
