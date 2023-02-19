@@ -1,0 +1,64 @@
+.contacts{
+    margin-top: 100px;
+}
+
+.contacts h1{
+    text-align: center;
+    color: #ffffff;
+    font-size: 36px;
+    margin-bottom: 15px;
+}
+
+.grid{
+    display: flex;
+    height: fit-content;
+    justify-content: center;
+    flex-wrap: wrap;
+    
+}
+
+.grid_item_contact{
+    height: 250px;
+    margin: 25px;
+}
+
+.card_contact{
+    background-color: #140E0C;
+    border-radius: 15px;
+    width: 200px;
+    height: 250px;
+    text-align: center;
+}
+
+.card_contact img{
+    width: 100px;
+    height: 100px;
+    margin-top: 20px;
+}
+
+.title_contact{
+    text-align: center;
+    margin-top: 28px;
+    color: #ffffff;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.description_contact{
+    text-align: center;
+    margin-top: 24px;
+    color: #A7A7A7;
+    font-size: 16px;
+    font-weight:normal;
+}
+
+.services{
+    margin-top: 60px;
+}
+
+.services h1{
+    text-align: center;
+    color: #ffffff;
+    font-size: 36px;
+    margin-bottom: 15px;
+}
