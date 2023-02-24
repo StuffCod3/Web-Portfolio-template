@@ -1,5 +1,5 @@
 .slider{
-    background-color: #140E0C;
+    background-color: #171717;
     width: 958px;
     position: relative;
     height: 500px;
@@ -35,7 +35,7 @@
 /* При наведении на кнопки добавляем фон кнопок */
 .slider .previous:hover,
 .slider .next:hover {
-    background-color: #1C1210;
+    background-color: #171717;
     color: white;
 }
 /* Анимация слайдов */

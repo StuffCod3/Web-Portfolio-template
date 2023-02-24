@@ -8,7 +8,7 @@ html{
 }
 
 body{
-    background-color: #1C1210;
+    background-color: #131313;
     font-family: 'Roboto', sans-serif; 
     min-height: 100%;
     position: relative;
@@ -37,7 +37,7 @@ body{
 }
 
 .nav_menu a:hover{
-    color: #86552c;
+    color: #ffa55b;
     transition: .3s;
 }
 
@@ -94,14 +94,14 @@ main{
 }
 
 .card{
-    background-color: #140E0C;
+    background-color: #171717;
     border-radius: 15px;
     width: 167px;
     height: 167px;
 }
 
 .img{
-    background-color: #140E0C;
+    background-color: #171717;
     border-radius: 15px;
     width: 167px;
     height: 167px;
@@ -149,7 +149,7 @@ button:focus  {
 }
 
 .follow:hover{
-    background-color: #5a4064;
+    background-color: #ffa55b;
     color: white;
     transition: .3s;
 }
@@ -194,7 +194,7 @@ footer{
 	bottom: 0;
     width: 100%;
     height: 160px;
-    background-color: #110B0A;
+    background-color: #131313;
 }
 
 .elements_footer{
